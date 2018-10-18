@@ -1,6 +1,6 @@
 # harmony
 
-THIS IS A COPY OF https://github.com/pardeike/Harmony/tree/master/Harmony.
+THIS IS A COPY OF https://github.com/pardeike/Harmony.
 
 WITH MY SIMPLE MODIFIY.
 
